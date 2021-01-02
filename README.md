@@ -1,4 +1,6 @@
-# Natural Language Processing Homework 2 by Matteo Prata
+# Natural Language Processing Homework 2
+
+Read the report for the details.
 
 **I suggest to read the project files in this order:**
 
